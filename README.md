@@ -1,8 +1,6 @@
-## This project has been discontinued
+## This project modified (remove NTSW restriction)
 
-Yes, it still works, you can still use this software. It just won't recieve any updates now.
-
-> I do not have the interest or time to oversee the development of this software. I thank all the amazing people who contributed to this project and made what it is in it's final form.
+[Collab link](https://colab.research.google.com/drive/1DwIR3ezMoyIDSh4wTXCWmDm22apHNjsU?usp=drive_link)
 
 # Roop
 
@@ -19,7 +17,6 @@ Be aware, the installation needs technical skills and is not for beginners. Plea
 [Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
 [Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
-
 
 ## Usage
 
@@ -50,11 +47,9 @@ python run.py [options]
 -v, --version                                                              show program's version number and exit
 ```
 
-
 ### Headless
 
 Using the `-s/--source`, `-t/--target` and `-o/--output` argument will run the program in headless mode.
-
 
 ## Disclaimer
 
@@ -64,17 +59,14 @@ We are aware of the potential ethical issues and have implemented measures to pr
 
 Users are expected to follow local laws and use the software responsibly. If using real faces, get consent and clearly label deepfakes when sharing. The developers aren't liable for user actions.
 
-
 ## Licenses
 
 Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
-
 
 ## Credits
 
 - [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
 - all developers behind the libraries used in this project
-
 
 ## Documentation
 
